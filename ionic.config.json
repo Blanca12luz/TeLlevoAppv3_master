@@ -1,0 +1,7 @@
+{
+  "name": "TeLlevoAppv3_master",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
